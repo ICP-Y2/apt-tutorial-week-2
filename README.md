@@ -104,8 +104,8 @@ Inside the `sql` folder:
 Run inside MySQL:
 
 ```sql
-source sql/learninglogs.sql;
-source sql/seed.sql;
+source db/learninglogs.sql;
+source db/seed.sql;
 ```
 
 ---
