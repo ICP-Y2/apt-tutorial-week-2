@@ -108,16 +108,6 @@ source db/learninglogs.sql;
 source db/seed.sql;
 ```
 
----
-
-## Build & Run
-
-From project root:
-
-```bash
-mvn clean compile
-mvn exec:java
-```
 
 ---
 
