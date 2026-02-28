@@ -49,8 +49,8 @@ This tutorial focuses working on **Topics only**.
 **DATABASE SETUP:** Please read [**README.MD**](./db/README.md) in the **db** folder.
   
 This will:
-- Create the `topics` table
-- Insert initial sample data (if provided)
+- Create the `topics` and `entries` table
+- Insert initial sample data provided
 
 ---
 
