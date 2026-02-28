@@ -40,8 +40,8 @@ This tutorial focuses working on **Topics only**.
 
 ### Task 1: Setup the Database
 
-1. Install and start Xampp. Download from [**here**](https://www.apachefriends.org/download.html) .
-2. Open phpMyAdmin and import the following files in db folder.
+1. Install and start Xampp. Download from [**here**](https://www.apachefriends.org/download.html) . Make sure `apache` and `mysql` are connected after installation.
+2. Open phpMyAdmin and import the following files inside db folder. Click on the `admin` button on the right of mysql. 
 
 - `sql/learnninglogs.sql`
 - `sql/seed.sql`
