@@ -33,20 +33,21 @@ Convert the Learning Logs application to use:
 This tutorial focuses working on **Topics only**.
 
 
-**DATABASE SETUP:** Please read [**README.MD**](./db/README.md) in the **db** folder. 
+
 ---
 
 ## Tasks to Complete
 
-### Task 1: Move Project to MySQL (Terminal)
+### Task 1: Setup the Database
 
-1. Install and start MySQL.
-2. Open MySQL terminal.
-3. Run the SQL scripts in order:
+1. Install and start Xampp. Download from [**here**](https://www.apachefriends.org/download.html) .
+2. Open phpMyAdmin and import the following files in db folder.
 
 - `sql/learnninglogs.sql`
 - `sql/seed.sql`
 
+**DATABASE SETUP:** Please read [**README.MD**](./db/README.md) in the **db** folder.
+  
 This will:
 - Create the `topics` table
 - Insert initial sample data (if provided)
