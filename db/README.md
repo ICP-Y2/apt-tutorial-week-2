@@ -27,14 +27,13 @@ This guide explains how to import the `learninglogs.sql` and `seed.sql` files in
 1. **Open phpMyAdmin**  
    Log in to [http://localhost/phpmyadmin](http://localhost/phpmyadmin). **Make sure XAMPP is running and connected**.
 
-2. **Import `learninglogs.sql`**  
-   - Select the learninglogs.sql file inside the db folder.
+2. **Import `learninglogs.sql`**
    - Go to the **Import** tab.
+   - Select the learninglogs.sql file inside the db folder.
    - Click **Choose File**, locate and select `learninglogs.sql`, and click **Import**.
 > You should see the database `learning_logs` in the list of databases on your left.
  
 3. **Import `seed.sql`**  
-   - Ensure you're still inside the same database.
    - Go to the **Import** tab again.
    - Click **Choose File**, locate and select `seed.sql`, and click **Import**.
 
