@@ -29,7 +29,6 @@ This guide explains how to import the `learninglogs.sql` and `seed.sql` files in
 
 2. **Import `learninglogs.sql`**
    - Go to the **Import** tab.
-   - Select the learninglogs.sql file inside the db folder.
    - Click **Choose File**, locate and select `learninglogs.sql`, and click **Import**.
 > You should see the database `learning_logs` in the list of databases on your left.
  
